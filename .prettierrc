@@ -1,0 +1,11 @@
+{
+	"endOfLine": "crlf",
+	"tabWidth": 2,
+	"useTabs": true,
+	"printWidth": 80,
+	"singleQuote": true,
+	"semi": false,
+	"quoteProps": "as-needed",
+	"jsxBracketSameLine": false,
+	"jsxSingleQuote": true
+}
